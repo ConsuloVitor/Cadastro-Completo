@@ -5,6 +5,7 @@
     font-family: Helvetica, sans-serif;
     color: #eba8a8;
     box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
 }
 
 .form-container {
@@ -13,7 +14,7 @@
     background-color: rgba(0, 0, 0, 0.9);
     padding: 1.5rem;
     border-radius: 15px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 2px 10px #ffaafbb3;
 }
 
 h2 {
