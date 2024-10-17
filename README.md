@@ -121,7 +121,9 @@ function buscarEndereco(cep) {
         });
 }
 ```
-<h3 align="center"> Como Utilizar O Código </h3>
+<h3 align="center"> Como Utilizar </h3>
+
+<h3 align="center"> Preencha o formulario com suas informações corretas (nome, email, data de nascimento, cep, senha, cpf, número e complemento. </h3>
 
 
 
