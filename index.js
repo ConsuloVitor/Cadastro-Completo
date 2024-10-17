@@ -27,6 +27,18 @@ function validarCPF(cpf) {
     return true;
 }
 
+// Validação de Email
+function validarEmail(email) {
+    // Expressão regular para validar formato de email
+    const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!regex.test(email)) {
+        alert("Email inválido");
+        document.getElementById("email").value = "";
+        return false;
+    }
+    return true;
+}
+
 // Consumir API de CEP
 function buscarEndereco(cep) {
     cep = cep.replace(/[^\d]/g, '');
