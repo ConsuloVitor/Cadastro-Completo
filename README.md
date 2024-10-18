@@ -125,7 +125,16 @@ function buscarEndereco(cep) {
 
 <h3 align="center"> Preencha o formulario com suas informações corretas (nome, email, data de nascimento, cep, senha, cpf, número e complemento. </h3>
 
+<h1 align="center"> Projetos Anteriores </h1>
 
+## 1. Cadastro De Endereço.
+https://github.com/ConsuloVitor/form-CadEndereco
+
+## 2. Cadastro De Login.
+https://github.com/ConsuloVitor/Login-cad
+
+## 3. Validação Do CPF e EMAIL.
+https://github.com/ConsuloVitor/validacoes
 
 
 
